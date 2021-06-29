@@ -4,9 +4,9 @@ Converts PNGs to vectorized SVGs (SVGs with paths)
 
 # Installation
 
-1. Clone this repo
+1. Clone this repo or download it.
 2. Install node.js
-3. `npm install` or `yarn` (if you have yarn installed)
+3. `npm install` or `yarn` (if you have yarn installed) in the location of this repoistory 
 
 # Usage
 
